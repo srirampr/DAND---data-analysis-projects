@@ -5,9 +5,9 @@ The repo consists of the files for class room exercise and final course project 
 <br>
 The course focused on the several topics in data analysis and data science providing foundations of the
 
-⋅⋅* Data Manipulation
-⋅⋅* Data Analysis with Statistical and Machine Learning principles
-⋅⋅* Data Communication with Information Visualization
+* Data Manipulation
+* Data Analysis with Statistical and Machine Learning principles
+* Data Communication with Information Visualization
 <br>
 and much more!
 <br><br>
