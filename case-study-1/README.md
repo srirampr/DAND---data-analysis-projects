@@ -1,6 +1,6 @@
-#This case study is about exploring Weather Trends 
+# This case study is about exploring Weather Trends 
 <br>
-##Summary
+## Summary
 <br>
 In this project, we will analyze local and global temperature data and compare the temperature trends where you live to overall global temperature trends.
 <br> 
