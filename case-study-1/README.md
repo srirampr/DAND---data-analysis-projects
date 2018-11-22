@@ -1,7 +1,5 @@
-# This case study is about exploring Weather Trends 
-<br>
-## Summary
-<br>
+# This case study is about exploring Weather Trends <br>
+## Summary <br>
 In this project, we will analyze local and global temperature data and compare the temperature trends where you live to overall global temperature trends.
 <br> 
 The following are the steps we will take to analyse the data:<br>
