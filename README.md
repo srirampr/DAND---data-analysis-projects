@@ -1,2 +1,2 @@
-# DAND--data-analysis-projects
+# DAND-data-analysis-projects
 Udacity Data Analyst Nanodegree program
